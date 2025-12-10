@@ -8,9 +8,7 @@ Tech Pipeline：<br>
 -Data preprocessing: cleaning, sparse feature removal<br>
 -Feature engineering: statistical & interaction features<br>
 -Model training: LightGBM with cross-validation<br>
-
-https://www.kaggle.com/competitions/santander-customer-satisfaction/overview
 -Model explainability using SHAP<br>
 -AUC results and interpretation plots<br>
 
-
+https://www.kaggle.com/competitions/santander-customer-satisfaction/overview
