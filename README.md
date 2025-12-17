@@ -26,3 +26,14 @@ The model outputs a probability score that can be interpreted as a customer diss
 ## Dataset
 Kaggle Competition:  
 https://www.kaggle.com/competitions/santander-customer-satisfaction/overview
+
+## 📊 Business Intelligence Dashboard (Tableau)
+
+🔗 **Live Dashboard (Tableau Public)**  
+https://public.tableau.com/app/profile/sisi.li4602/viz/BI_17659663880440/2
+
+![Tableau Dashboard](images/tableau_dashboard.png)
+
+This interactive Tableau dashboard translates machine learning prediction
+outputs into business-friendly customer risk segments.
+
