@@ -32,7 +32,7 @@ https://www.kaggle.com/competitions/santander-customer-satisfaction/overview
 🔗 **Live Dashboard (Tableau Public)**  
 https://public.tableau.com/app/profile/sisi.li4602/viz/BI_17659663880440/2
 
-![Tableau Dashboard](images/tableau_dashboard.png)
+![Tableau Dashboard](images/Tableau_Dashboard.png)
 
 This interactive Tableau dashboard translates machine learning prediction
 outputs into business-friendly customer risk segments.
